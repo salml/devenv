@@ -1,6 +1,6 @@
 ## Fresh Mac Installs
 ### Preinstall
-Download [homebrew](https://brew.sh), use it to download `git`, then setup your [SSH keys](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) to clone this repo.
+Download [homebrew](https://brew.sh), use it to download [git](https://git-scm.com/download/mac), then setup your [SSH keys](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) to clone this repo.
 
 ### Install
 Run `setup_install.sh`, which will
