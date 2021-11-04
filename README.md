@@ -7,3 +7,5 @@ Run `setup_install.sh`, which will
 - Copy some dotfiles from the repo to their appropriate places
 - Install some stuff with `brew (cask)`
 - Install `oh-my-bash` to make the terminal pretty
+
+In `Terminal > Preferences > General` change `Shells open with:` to `/usr/local/bin/bash`.
